@@ -1,0 +1,190 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Navigation Bar */
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px 0 18px;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-family: 'Montserrat-Light', sans-serif;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+    padding: 3% 12% 10%;
+    text-align: left;
+}
+
+.big-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color:white;
+    padding-left: 100px;
+}
+
+.main-heading {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.text-color {
+    color:white;
+}
+
+.title-btn {
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.about-text {
+    font-weight: 500;
+    font-size: 2rem;
+    padding-bottom: 50px;
+}
+
+.vdo-section {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 50px;
+}
+
+.vdo-title {
+    padding-bottom: 100px;
+}
+
+.colored-section {
+    background-color: rgb(252, 185, 2);
+    color: black;
+}
+
+.newsletter {
+    padding: 7% 15%;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.title-btn:hover {
+    background-color:rgb(252, 185, 2);
+    color: white;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.contact {
+    background-color: rgb(252, 185, 2);
+    padding-bottom: 40px;
+
+}
+
+.contact-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-top: 40px;
+
+}
+
+.contact-form {
+    width: 200%;
+    height: 50vh;
+    background-size: cover;
+}
+
+.name {
+    padding-right: 320px;
+}
+
+.mail {
+    padding-right: 230px;
+}
+
+.subject {
+    padding-right: 290px;
+}
+
+.message {
+    padding-right: 300px;
+}
+
+.maps {
+    padding-top: 80px;
+}
+
+.send-button:hover {
+    background-color:black;
+}
+
+.btn-primary {
+    width: 400px;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    font-size: 20px;
+}
+
+.last-section {
+    background-color: white;
+    padding: 40px 40px 20px 40px;
+    color: black;
+}
+
+.office {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.scroll-btn {
+    position: fixed;
+    right: 5rem;
+    bottom: 5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #2b20c7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: #fff;
+    box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.3rem;
+  }
